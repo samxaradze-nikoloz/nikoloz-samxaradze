@@ -11,5 +11,5 @@ p=int(input("sheiyvane ricxi:"))
 #  print("ar ikopa xutze")
 if x > p :
  print("x > y ze")
-else:x > p 
- print ("naklebia  igrekze"
+else x>p :
+ print ("naklebia  igrekze")

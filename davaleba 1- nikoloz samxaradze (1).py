@@ -82,4 +82,3 @@ else :
   print("kentia es ricxvi")
 if ricxvi1%ricxvi2==2 or 3 or 4 or 5 :
   print(f"nashti aris {ricxvi1%ricxvi2} es jdeba pirobasi sagol anu nashti 1-dan 5 amde")
-  

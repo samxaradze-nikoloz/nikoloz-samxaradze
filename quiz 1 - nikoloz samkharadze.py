@@ -72,10 +72,10 @@ if m<10 :
 if m==10 or m==11 or m==12 or m==13 or m==14 or m==15 or m==16 or m==17 or m==18 or m==19 or m==20 :
  print("correct")
 if m>20 :
- print("too high")
+ print("too high") 
 # 10. დაწერე იდენტურობის ოპერატორის(is, is not)
 # და წევრობის ოპერატორის(in, not in) მეშვეობით შენთვის სასურველი პროგრამა.  
-saxeli=str("input sheiyvane NIKA : ") 
+saxeli=str(input("input sheiyvane NIKA : "))
 if saxeli=="NIka" :
  print("correct")
 else : 
