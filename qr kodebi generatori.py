@@ -5,7 +5,7 @@ qr = qrcode.QRCode(
     box_size=10,
     border=5
 )
-data="https://www.facebook.com/nika.nikoloz.102"
+data="https://openart.ai/discovery/sd-1006442475491168369"
 
 qr.add_data(data)
 qr.make(fit = True)

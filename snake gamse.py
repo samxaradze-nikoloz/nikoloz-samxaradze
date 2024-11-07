@@ -23,10 +23,9 @@ FPS = 25
 KEY = {"UP":1 , "DOWN":2 , "LEFT":3, "RIGHT":4}
 
 
-# we will initialise screen
+# ekranis dakeneba
 screen = pygame.display.set_mode((SCREEN_WIDTH,SCREEN_HEIGHT),pygame.HWSURFACE)
-# we have used hw surface which stands for hardware surface refers to using memory on the video card for storing
-# draws as opposed to main memory
+# tamasis asatvirtad video kartaze ro cavides
 
 # vizual
 score_font = pygame.font.Font(None,38)
@@ -34,7 +33,7 @@ score_numb_font = pygame.font.Font(None,28)
 game_over_font = pygame.font.Font(None,46)
 play_again_font = score_numb_font
 score_msg = score_font.render("aura : ",1,pygame.Color("green"))
-score_msg_size = score_font.size("aura")
+score_msg_size = score_font.size("Aura")
 background_color = pygame.Color(0,0,0)    # shavi feri ukana fonze
 black = pygame.Color(0,0,0)
 
